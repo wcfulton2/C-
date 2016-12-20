@@ -1,0 +1,10 @@
+﻿  App.cpp
+d:\documents\programming stuff\c++\final - just my code\final\app.cpp(50): warning C4101: 'number': unreferenced local variable
+d:\documents\programming stuff\c++\final - just my code\final\app.cpp(107): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming stuff\c++\final - just my code\final\app.cpp(160): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming stuff\c++\final - just my code\final\app.cpp(175): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming stuff\c++\final - just my code\final\app.cpp(221): warning C4018: '>': signed/unsigned mismatch
+d:\documents\programming stuff\c++\final - just my code\final\app.cpp(301): warning C4018: '>': signed/unsigned mismatch
+d:\documents\programming stuff\c++\final - just my code\final\app.cpp(380): warning C4018: '>': signed/unsigned mismatch
+  Final.vcxproj -> D:\Documents\Programming Stuff\C++\Final - Just my Code\Debug\Final.exe
+  Final.vcxproj -> D:\Documents\Programming Stuff\C++\Final - Just my Code\Debug\Final.pdb (Full PDB)
